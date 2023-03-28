@@ -97,6 +97,14 @@ li {
     padding: 0px 40px 0px 40px;
 }
 
+#list-first-row {
+    padding-top: 15px;
+}
+
+#list-last-row {
+    padding-bottom: 30px;
+}
+
 /* Check list visual Section */
 
 .check-visual {
