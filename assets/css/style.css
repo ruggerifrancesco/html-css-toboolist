@@ -89,8 +89,7 @@ li {
 }
 
 .list-row {
-    border: 1px solid red;
-    margin-top: 16px;
+    margin-top: 25px;
 }
 
 .list-title {
@@ -98,7 +97,7 @@ li {
     padding: 0px 40px 0px 40px;
 }
 
-/* Tags Defining Section */
+/* Check list visual Section */
 
 .check-visual {
     display: inline-block;
@@ -124,3 +123,5 @@ li {
     border-radius: 50%;
     border: 1px solid red;
 }
+
+/* Tags Defining Section */
