@@ -1,3 +1,14 @@
+:root {
+    --tag-editorial: #45ABEA;
+    --tag-qone-goals: #9B71E3;
+    --tag-recruiting: #64C0A9;
+    --tag-mobile: #F29E33;
+    --tag-website: #D863A1;
+    --tag-sales: #B0C926;
+
+    --button-color: #47ADF1;
+}
+
 /* Style Reset Rule */
 * {
     margin: 0;
@@ -42,4 +53,16 @@ main {
     margin: 40px 200px 5px 200px;
     height: 200px;
     border-radius: 8px;
+}
+
+/* To do list Section */
+li {
+   list-style-type: none;
+   font-weight: 400;
+}
+
+/* Tags Defining Section */
+
+.check-visual {
+    
 }
