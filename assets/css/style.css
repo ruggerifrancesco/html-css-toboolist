@@ -11,3 +11,28 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: rgb(245, 237, 237);
 }
+
+/* Header Section */
+header {
+    background-color: white;
+    height: 100px;
+}
+
+.header-top {
+    padding: 20px 30px 20px;
+}
+
+#main-logo {
+    vertical-align: middle;
+    width: auto;
+    height: 60px;
+}
+
+.main-page-title {
+    display: inline-block;
+    font-weight: 900;
+    font-size: 2.5rem; 
+    vertical-align: middle;
+}
+
+/* Main Section */
