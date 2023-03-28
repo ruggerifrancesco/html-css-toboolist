@@ -51,22 +51,46 @@ main {
     background-color: white;
     /* border: 1px solid red; */
     margin: 40px 160px 5px 160px;
+    padding: 0 40px 0 40px;
     border-radius: 8px;
 }
 
 .functional-buttons {
-    border: ;
-    padding: 
+    border: 1px solid red;
+    padding: 10px 0 10px 0 
 } 
 
-.list-row {
-    padding: ;
+button {
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 3px;
+    padding: 6px 12px;
+}
+
+#btn-add-task {
+    background-color: var(--button-color);
+    color: white;
+    border: 1px solid var(--button-color);
+}
+
+#btn-add-section {
+    background-color: white;
+    color: lightgrey;
+    border: 1px solid lightgrey;
 }
 
 /* To do list Section */
 li {
    list-style-type: none;
    font-weight: 400;
+   padding: 10px 0 10px 0;
+}
+
+.list-row {
+    border: 1px solid red;
+    margin-top: 16px;
 }
 
 /* Tags Defining Section */
